@@ -1,2 +1,9 @@
-# ABOUT ME
-fill in another time
+I spent a decade finding the exposure other's didn't notice - hunting technical surveillance threats in Marine Corps CI / HUMINT & TSCM, and not defending 6,500+ endpoint DoD IL5 enterprise as a cleared Systems Security Analyst.  Different playing field, same instinct:  find what's hidden before it costs someone.
+
+On the technical side, I build and run the infrastructure that keeps a Space Force enterprise compliant, secure and operational - PowerShell C#/.NET automation, endpoint management at scale, vSphere/VCF virualization, Tenable ACAS vulnerability scanning, and STIG/RMF compliance across 6,500+ endpoints and 11 Windows servers.  I don't just run scans and file findings; I build the pipelines and tooling which enables action on those findings, because vulnerability data nobody acts on isn't security, it's paperwork.  
+
+That technical acumen was built on the foundation of an 18 year Marine Corps career, most of it in CI/HUMINT & TSCM.  I've swept SCIFs, briefed senior leaders / stakeholders, conducted interagency missions, and worked spectrum analysis on hardware most IT professionals have never touched.  That background is why I read technical security and insider-threat problems the same way - as human problems with technical footprints, not the other way around.
+
+What keeps me connected to this field is the same as what pulled me in:  the work never stops moving, and neither do I.  I hold an active TS/SCI with CI polygraph and five GIAC certifications ( GCIH, GOSI, GPYC, GSEC, GFACT ), Secucity+, Azure AZ-900, and Tenable ACAS.  I'm currently finishing my B.A.S in Applied Cybersecurity at SANS Technology Institute while building toward more development-centric, mission-focused work. 
+
+I'm open to conversations about systems security engineering, automation-heavy IT roles, and DevSecOps related roles where my background is an asset.  If any of that overlaps with anything you're building or problems you need to solve, I'd love to hear about it.
